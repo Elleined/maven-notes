@@ -4,7 +4,7 @@
 - Is a build tool for java that maintains third-party libraries like (API, JAR, Dependencies) in pom.xml file.
 
 # Why use maven?
-##### Problem: When creating a project that needs third-party libraries we tend to find all the related dependency and download it manually from diff websites then we face the issue of versioning incompatible and lack of required dependencies to for that third-party library to work.
+##### Problem: When creating a project that needs third-party libraries we tend to find all the related dependency and download it manually from diff websites then we add it in classpath which every java developer struggles for the first time and then we face issue of versioning incompatible and lack of required dependencies to for that third-party library to work.
 
 ##### Solution: Thats why we use maven, maven uses cdn like to download all required dependecies and help manage the versioning of each dependencies of your project.
 
